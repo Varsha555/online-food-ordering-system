@@ -1,6 +1,8 @@
-package com.altimetrik.onlinefoodorderingsystem.domain;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface RestaurantRepository extends JpaRepository<Restaurant, Long> {
-}
+/*
+ * package com.altimetrik.onlinefoodorderingsystem.domain;
+ * 
+ * import org.springframework.data.jpa.repository.JpaRepository;
+ * 
+ * public interface RestaurantRepository extends JpaRepository<Restaurant, Long>
+ * { }
+ */

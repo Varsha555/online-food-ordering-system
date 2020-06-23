@@ -1,14 +1,12 @@
 package com.altimetrik.onlinefoodorderingsystem;
 
-import lombok.extern.slf4j.Slf4j;
+
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import com.altimetrik.onlinefoodorderingsystem.domain.Menu;
-import com.altimetrik.onlinefoodorderingsystem.domain.Restaurant;
-import com.altimetrik.onlinefoodorderingsystem.domain.RestaurantRepository;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
